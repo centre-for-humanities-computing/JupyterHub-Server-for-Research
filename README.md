@@ -1,10 +1,12 @@
 # PROJECT TITLE
-_by Project Owner_
+_by Max Eckardt_
 
 ## Project Developers
-
+ - Max Eckardt
+ 
 ## Project Description
-[Git Repo](https://github.com/centre-for-humanities-computing/project-template.git)
+Installation and Configuration notes of JupyterHub for Researchers at Aarhus University.
+
 
 ## Data Assessment ##
 | Source | risk | Storage | Comment|
