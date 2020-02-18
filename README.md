@@ -1,5 +1,5 @@
 # PROJECT TITLE
-_by Max Eckardt_
+_by Adela_
 
 ## Project Developers
  - Max Eckardt
@@ -7,6 +7,8 @@ _by Max Eckardt_
 ## Project Description
 Installation and Configuration notes of JupyterHub for Researchers at Aarhus University.
 
+server:
+internal name: chcaa-worker02.uni.au.dk
 
 ## Data Assessment ##
 | Source | risk | Storage | Comment|
